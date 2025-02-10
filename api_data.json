@@ -1,0 +1,342 @@
+[
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=&hashes%5B1%5D=&hashes%5B2%5D=&hashes%5B3%5D=&hashes%5B4%5D=&hashes%5B5%5D=&hashes%5B6%5D=&hashes%5B7%5D=&hashes%5B8%5D=",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v2/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/magnet/home-page/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/digipay/bnpl/credit/?endpoint=%2Fdigipay%2Fbnpl%2Fcredit%2F",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v2/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/magnet/home-page/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/digipay/bnpl/credit/?endpoint=%2Fdigipay%2Fbnpl%2Fcredit%2F",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v2/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/magnet/home-page/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/digipay/bnpl/credit/?endpoint=%2Fdigipay%2Fbnpl%2Fcredit%2F",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/digiplus/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/search/image-search/eligibility-check/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/?backUrl=%2Fplus%2Flanding%2F",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?backUrl=%2Fplus%2Flanding%2F&types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/info/terms/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/search/image-search/eligibility-check/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/?backUrl=%2Fpage%2Fterms%2F",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?backUrl=%2Fpage%2Fterms%2F&types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?backUrl=%2Fpage%2Fprivacy%2F&types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/?backUrl=%2Fpage%2Fprivacy%2F",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/cart/tabs/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v2/cart/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/products/recent-viewed/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?backUrl=%2Fcheckout%2Fcart%2F&types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/?backUrl=%2Fcheckout%2Fcart%2F",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/incredible-offers/products/?page=1&q=",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/search/image-search/eligibility-check/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/incredible-offers/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?backUrl=%2Fincredible-offers%2F&types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/?backUrl=%2Fincredible-offers%2F",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/fresh/v1/init/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/fresh/v1/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/fresh/v1/dictionaries/?types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&hashes%5B0%5D=&hashes%5B1%5D=&hashes%5B2%5D=&hashes%5B3%5D=&hashes%5B4%5D=&hashes%5B5%5D=&hashes%5B6%5D=&hashes%5B7%5D=",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://locationv2.api.useinsider.com/?v=2&pId=10006808&",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/dictionaries/?types%5B0%5D=states&types%5B1%5D=cities&types%5B2%5D=user_jobs&types%5B3%5D=mega_menu&types%5B4%5D=universal&types%5B5%5D=category_tree&types%5B6%5D=districts&types%5B7%5D=seo_content&types%5B8%5D=superapp_services&hashes%5B0%5D=854520e5da5b50175e401c36b8002ecc&hashes%5B1%5D=be9dd44cbddf72f3113514c67e02810a&hashes%5B2%5D=4ee2c70608fae0b62a7aefe875e714e1&hashes%5B3%5D=0ecb9d1f2aa4f8b8c6afab9188912cf2&hashes%5B4%5D=f4884ba721f000a146c776bf4047c24e&hashes%5B5%5D=ac3b3a3e42ce7dfee1855445ca33d38c&hashes%5B6%5D=2ea0f9b20be91246b5165aba96fc4493&hashes%5B7%5D=7672f6b56be95cd4216237a337da19bf&hashes%5B8%5D=1ef2eab7c7443015dfafa133924ff517",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/digiplus/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/v1/user/init/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api-zakaria.digikala.com/api/features/sdk-1aauD6mWWgx2Deg2",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/non-inventory/v1/init/",
+    "baseUrl": "https://www.digikala.com/"
+  },
+  {
+    "apiUrl": "https://api.digikala.com/non-inventory/v1/init/",
+    "baseUrl": "https://www.digikala.com/"
+  }
+]
